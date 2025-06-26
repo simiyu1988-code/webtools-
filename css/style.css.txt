@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact Us - Launch Studio</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Contact Us</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="contact-us.html">Contact Us</a></li>
+        <li><a href="about-us.html">About Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <p>This page is under construction. Please check back soon!</p>
+  </main>
+
+  <footer>
+    <p><a href="https://www.dallascollege.edu">Visit Dallas College</a></p>
+    <p><a href="mailto:webmaster@example.com">Email the Webmaster</a></p>
+  </footer>
+
+</body>
+</html>
+
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #fafafa;
+}
+
+header, footer {
+  background-color: #e0e0e0;
+  padding: 10px;
+}
+
+h1, h2 {
+  color: #1a73e8;
+  font-weight: bold;
+}
+
+a:link {
+  color: #1a73e8;
+}
+a:visited {
+  color: #5f6368;
+}
+a:hover {
+  color: #d93025;
+}
+
+.highlight {
+  background-color: #ffffcc;
+  padding: 4px;
+}

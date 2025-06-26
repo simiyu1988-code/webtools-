@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to Launch Studio - Jeremiah Simiyu</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to My Web Development Journey</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="contact-us.html">Contact Us</a></li>
+        <li><a href="about-us.html">About Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <!-- Section navigation -->
+    <ul>
+      <li><a href="#background">Background</a></li>
+      <li><a href="#avatar">My Avatar</a></li>
+      <li><a href="#journey">Web Development Journey</a></li>
+    </ul>
+
+    <section id="background">
+      <h2>My Background</h2>
+      <p>Hello! My name is <strong>Jeremiah Simiyu</strong>. I have a strong interest in cybersecurity, technology, and software development. Over the past few years, I've explored different aspects of tech — from scripting in Python to securing systems with firewalls and IAM tools. Outside of tech, I enjoy soccer, music, and discovering new cultures through travel and reading.</p>
+      <p>I’ve always been curious about how websites work under the hood, and now I’m finally diving into the world of web development. This opportunity with Launch Studio is helping me build a solid foundation. My goals include becoming a full-stack developer and contributing to secure, accessible, and efficient web applications. <em>I’m excited about learning, growing, and applying these new skills professionally</em>.</p>
+    </section>
+
+    <section id="avatar">
+      <h2>My Avatar</h2>
+      <p>For this project, I’ve chosen a fictional avatar inspired by <cite>Black Panther (T’Challa)</cite>. As a character, he represents a blend of intelligence, leadership, innovation, and cultural pride — values I aspire to integrate into my work and learning journey. His commitment to protecting his people and advancing technology responsibly resonates with my desire to make a positive impact through cybersecurity and tech education.</p>
+      <p>Using this avatar helps me stay focused on growth, ethics, and responsibility as I build my web development skills. It also reminds me that strength comes not only from code and tools, but also from empathy and purpose.</p>
+      <img src="images/avatar.jpg" alt="Avatar inspired by Black Panther" width="300">
+    </section>
+
+    <section id="journey">
+      <h2>My Web Development Journey</h2>
+      <p>I’m currently working through the Launch Studio onboarding program, which has introduced me to essential HTML concepts like semantic tags, page structure, and clean code practices. This page is my first step toward building a complete training website. I'm also learning about CSS and file management, which helps bring visual clarity and structure to web content.</p>
+      <p>This journey is not just about completing tasks — it’s about adopting <em>professional habits</em> like using version control, validating code, and writing accessible markup. Each lesson builds on the last, and I'm gaining confidence with every step. In the future, I hope to use these skills in cloud security projects and web app development, especially in areas where security and usability are critical.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Visit <a href="https://www.dallascollege.edu">Dallas College</a></p>
+    <p><a href="mailto:webmaster@example.com">Email the Webmaster</a></p>
+  </footer>
+
+</body>
+</html>
